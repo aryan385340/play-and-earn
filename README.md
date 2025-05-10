@@ -1,1 +1,1 @@
-# play-and-earn
+click-game.html
